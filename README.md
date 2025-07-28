@@ -1,8 +1,7 @@
-AI Engineering Portfolio - Gabriel
+# AI Engineering Portfolio - Gabriel
 Welcome to my AI Engineering Portfolio! This repository showcases a collection of Jupyter notebooks and projects demonstrating my expertise in artificial intelligence, machine learning, and data science. As an aspiring AI engineer, I’ve built these projects to highlight my skills in developing, implementing, and deploying AI models for real-world applications.
-About Me
+# About Me
 I’m Gabriel, a passionate AI engineer with experience in machine learning, deep learning, and data analysis. This repository contains hands-on projects that reflect my ability to solve complex problems, work with industry-standard tools, and deliver impactful results. My goal is to contribute to innovative AI solutions that drive value in fields like [insert relevant fields, e.g., healthcare, finance, or computer vision].
-Projects
 
 Programming: Python
 Machine Learning: Supervised/unsupervised learning, regression, classification, clustering
@@ -12,7 +11,7 @@ Tools: Jupyter, Git, Docker, AWS (or other cloud platforms)
 Data Visualization: Matplotlib, Seaborn, Plotly
 Other: Data preprocessing, feature engineering, model deployment
 
-Getting Started
+# Getting Started
 To explore my projects, follow these steps to set up the environment and run the notebooks:
 Prerequisites
 
